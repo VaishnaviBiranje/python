@@ -1,0 +1,10 @@
+string="database mangement system"
+print("intial string is:")
+print(string)
+print("slicing 3 to 12",string[3:12])
+print("slicing 1 to 7",string[0:7])
+print("slicing 0 ta 12",string[:12])
+print("slicing 0 ta ",string[0:])
+print("slicing 3 ta 12",string[3:12])
+print("slicing 3 ta 12",string[3:25])
+print("slicing -10 ta 20",string[-10:20])
