@@ -1,4 +1,3 @@
-with open('example.txt','w') as file1:
-     file1.write('vaishavi hello!')
-#file = open('example.txt','r')
- #     print(file)
+with open('example.txt','w') as f:
+     f.write('hello vaishnavi this is a line of text')
+     f.write('this is another line')
